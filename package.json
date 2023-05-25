@@ -1,6 +1,6 @@
 {
   "name": "@masatomakino/sandbox-branch-protection-and-version-tagging",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Sandbox for Branch Protection and Version Tagging",
   "main": "index.js",
   "scripts": {
