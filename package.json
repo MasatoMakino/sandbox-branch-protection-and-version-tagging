@@ -1,0 +1,11 @@
+{
+  "name": "@masatomakino/sandbox-branch-protection-and-version-tagging",
+  "version": "0.0.1",
+  "description": "Sandbox for Branch Protection and Version Tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MasatoMakino <unagiinu.g@gmail.com>",
+  "license": "MIT"
+}
