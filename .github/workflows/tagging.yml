@@ -27,4 +27,6 @@ jobs:
           git config --local user.email "actions@github.com"
           NEXT_VERSION=$(npm version ${{ github.event.inputs.version }})
           git add package.json package-lock.json
+          git checkout -b version/${NEXT_VERSION}
+          git push origin version/${NEXT_VERSION}
           git push origin ${NEXT_VERSION}
