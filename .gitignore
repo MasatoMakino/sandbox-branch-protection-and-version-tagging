@@ -128,10 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-/.idea/.gitignore
-/.idea/aws.xml
-/.idea/encodings.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/sandbox-branch-protection-and-version-tagging.iml
-/.idea/vcs.xml
+
+/.idea/
