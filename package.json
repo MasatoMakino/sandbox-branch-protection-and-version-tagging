@@ -4,7 +4,7 @@
   "description": "Sandbox for Branch Protection and Version Tagging",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Dummy test command done.\""
   },
   "author": "MasatoMakino <unagiinu.g@gmail.com>",
   "license": "MIT"
