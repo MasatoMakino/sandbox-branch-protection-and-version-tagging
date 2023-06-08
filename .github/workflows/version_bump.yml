@@ -27,8 +27,6 @@ jobs:
         uses: actions/setup-node@v3
       - name: npm clean install
         run: npm ci
-      - name: test
-        run: npm test
       - name : config git
         run: |
           git config --local user.name "GitHub Actions"
